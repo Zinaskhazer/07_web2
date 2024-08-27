@@ -28,6 +28,12 @@ h1 {
   justify-items: center;
   margin-top: 40px;
 }
+.grid2-img {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  margin-top: 40px;
+}
 
 .produkt3_grid,
 .produkt4_grid {
